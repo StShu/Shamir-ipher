@@ -1,0 +1,15 @@
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\bin\Debug\net6.0\ShamirСipher.exe
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\bin\Debug\net6.0\ShamirСipher.deps.json
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\bin\Debug\net6.0\ShamirСipher.runtimeconfig.json
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\bin\Debug\net6.0\ShamirСipher.dll
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\bin\Debug\net6.0\ShamirСipher.pdb
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ShamirСipher.csproj.AssemblyReference.cache
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ShamirСipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ShamirСipher.AssemblyInfoInputs.cache
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ShamirСipher.AssemblyInfo.cs
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ShamirСipher.csproj.CoreCompileInputs.cache
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ShamirСipher.dll
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\refint\ShamirСipher.dll
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ShamirСipher.pdb
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ShamirСipher.genruntimeconfig.cache
+D:\Projects\4course\ЗИ\ShamirСipher\ShamirСipher\obj\Debug\net6.0\ref\ShamirСipher.dll
